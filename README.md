@@ -1,4 +1,4 @@
-# PokemonPython-main
+# SymbolicRegressionWithGPU
 
 Learning how to use symbolic regression in python using some of the following sources.
 - https://geppy.readthedocs.io/en/latest/intro_GEP.html
